@@ -1,0 +1,8 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Pithon Support
+    url: https://t.me/Pithon_support
+    about: Direct chat on non-inquiries subjects.
+  - name: Documentation
+    url: https://Yukki.tech/
+    about: Documentation for getting started with bot.
