@@ -7,7 +7,7 @@ gitpython
 hachoir
 heroku3
 lyricsgenius
-motor==2.5
+motor==2.5.1
 pillow
 psutil
 py-tgcalls==0.8.6
